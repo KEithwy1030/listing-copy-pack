@@ -1,0 +1,29 @@
+{
+  "product_name": "Wireless Mouse",
+  "titles": [
+    "Wireless Mouse — all-day comfort",
+    "Wireless Mouse for office buyers",
+    "Wireless Mouse: Electronics Essentials"
+  ],
+  "bullets": [
+    "2.4GHz.",
+    "USB-C.",
+    "silent click."
+  ],
+  "description": "Wireless Mouse is made for office buyers. It focuses on what matters in electronics: 2.4GHz. USB-C. silent click.",
+  "faq": [
+    {
+      "q": "Who is Wireless Mouse for?",
+      "a": "office buyers. Anyone comparing electronics options who wants plain-language benefits."
+    },
+    {
+      "q": "What do I get in this copy pack?",
+      "a": "Three title options, up to six benefit bullets, one short description, and two FAQ rows ready to paste."
+    }
+  ],
+  "meta": {
+    "tone": "clear, benefit-first, no hype",
+    "category": "electronics",
+    "audience": "office buyers"
+  }
+}

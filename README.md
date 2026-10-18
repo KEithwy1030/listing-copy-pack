@@ -15,6 +15,9 @@ Deterministic templates — **no LLM, no network, no API key**.
 - **Sample output:** [`sample_output.json`](./sample_output.json)
 - **Gist:** https://gist.github.com/KEithwy1030/fa6008e8ea2047a5c46b588ccd763539
 
+- **Landing (GitHub Pages):** https://keithwy1030.github.io/listing-copy-pack/
+- **Write-up:** https://telegra.ph/Amazon-Shopify-eBay-Listing-Copy-Pack--010-10-18
+
 ## Quick try
 
 1. Open the Store link
